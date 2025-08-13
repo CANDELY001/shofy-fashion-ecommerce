@@ -6,7 +6,7 @@ import { CloseTwo } from "@/svg";
 import logo from "@assets/img/logo/logo.svg";
 import contact_img from "@assets/img/icon/contact.png";
 import language_img from "@assets/img/icon/language-flag.png";
-import MobileCategory from "@/layout/header/header-com/mobile-category";
+import MobileCategory from "@/layout/headers/header-com/mobile-category";
 import MobileMenus from "./mobile-menus";
 //menu mobile for all homes
 const OffCanvas = ({
