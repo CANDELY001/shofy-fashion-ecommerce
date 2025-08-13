@@ -1,9 +1,8 @@
-import Image from "next/image";
-
+import Wrapper from "@/layout/wrapper";
 export default function Home() {
   return (
-    <div>
-      <h1>Welcome to the Fashion Store</h1>
-    </div>
+    <Wrapper>
+      <h1>Welcome to the Home Page</h1>
+    </Wrapper>
   );
 }
