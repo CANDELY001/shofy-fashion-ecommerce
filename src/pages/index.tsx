@@ -1,8 +1,10 @@
 import Wrapper from "@/layout/wrapper";
+import SEO from "@/components/seo";
+import React from "react";
 export default function Home() {
   return (
     <Wrapper>
-      <h1>Welcome to the Home Page</h1>
+      <SEO pageTitle="Home"></SEO>
     </Wrapper>
   );
 }
